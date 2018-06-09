@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+
+/**
  展示图片Demo
  */
 @interface WKDPhotoCollectionViewController : UIViewController
